@@ -1,6 +1,6 @@
 """
 Milestone 1: Probability Foundations & Variable Types
-Author: [Your Name/Student ID]
+Author: [Thabang Mthimkulu]
 Description: This script calculates basic and conditional probabilities, verifies Bayes' Theorem,
              and classifies random variables using financial user engagement data.
 """
